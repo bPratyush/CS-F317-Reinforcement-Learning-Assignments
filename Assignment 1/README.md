@@ -1,4 +1,4 @@
-# RL-based Robot Vacuum Cleaner
+# Autonomous Robot Vacuum Cleaner
 
 We focused on developing a reinforcement learning (RL) agent capable of operating within a
 dynamic and complex grid-based environment. The agent’s objective is to clean the room
